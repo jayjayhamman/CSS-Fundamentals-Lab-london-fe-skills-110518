@@ -22,7 +22,7 @@ figcaption {
   
 }
 
-section #details {
+#details {
   display: block;
   float: left;
 }
