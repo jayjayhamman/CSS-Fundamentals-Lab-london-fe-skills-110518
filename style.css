@@ -15,4 +15,6 @@ figcaption {
   font-size: 8px;
 }
 #featuredproperty, p {
-  
+  width: 800px;
+  text-align: center;
+}
