@@ -10,3 +10,7 @@ a {
   padding-right:10px;
   background-color:orange;
 }
+
+figcaption{
+  text-size-adjust: 8;
+}
