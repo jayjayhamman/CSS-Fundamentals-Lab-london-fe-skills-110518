@@ -23,6 +23,7 @@ figcaption {
 }
 
 section #details {
-  display: float-left;
+  display: block;
+  float: left;
 }
 
