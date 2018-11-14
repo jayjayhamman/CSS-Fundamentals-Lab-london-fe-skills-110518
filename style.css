@@ -11,6 +11,6 @@ a {
   background-color:orange;
 }
 
-figcaption {
+figure .figcaption {
   font-size: 0.5;
 }
